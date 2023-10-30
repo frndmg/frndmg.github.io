@@ -90,4 +90,4 @@ __Git__, __Linux__, __Bash__, __Functional Programming__
 __Clojure__, __Haskell__
 
 `Languages`
-__Spanish__ (Native), __English__ (Full professional proficiency)
+__Spanish__ (Native), __English__ (Full professional proficiency), __German__ (Still learning)
