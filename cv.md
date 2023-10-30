@@ -12,9 +12,9 @@ title: Fernando Martínez González
 | <a href="https://www.linkedin.com/in/frndmg">linkedin.com/in/frndmg</a>
 </div>
 
-<!-- ## Currently
+## A Word
 
-Standing on the shoulders of giants -->
+I like to program all kinds of systems, in all kind of environments. My work experience goes mostly, but it is not limited to, Python, Go, C++, C, C#, relational and non-relational databases, Docker, AWS, GCloud, Terraform (and other HashiCorp products), Git and all the related CI/CD around it, frontend and backend templating, etc. I love functional programming too, so I also use stuff like Haskell, Clojure and the like, but haven't get much work experience on it. I have been around enough to also know how important is to have a great team, and having a cohesive and vibing working environment where things get done and people feel good about it is something I put a lot of time into. I enjoy the craft and the challenge, let me know if you have something interesting to work with. Cheers!
 
 ## Experience
 
