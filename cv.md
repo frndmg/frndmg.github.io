@@ -68,6 +68,10 @@ __University of Havana__ [Havana, Cuba]
 
 - _Professor_
 
+Distributed Systems and Computer Networking Professor.
+
+I had to prepare and evaluate multiple projects and courses. In the realm of distributed systems things like Distributed Hash Tables and Consensus Algorithms were very common and fun to work with. Many of the projects imitated ideas like BitTorrent and MapReduce.
+
 <!--
 
 -->
