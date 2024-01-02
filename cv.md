@@ -68,11 +68,21 @@ Cloud.
 
 <!--
 
+-->
 `Sep 2019–Apr 2020`
-__SwagUp SA__ [Havana, Cuba]
+__SwagUp, Inc__ [Havana, Cuba]
 
 - _Software Engineer_
--->
+
+At SwagUp I worked on the integrations with Shopify and Zapier. Those
+were relavant while the store was being developed to provide a
+ready-to-use venue for selling the company's products. We used
+extensibely the AWS services to develop and deploy these integrations.
+
+I also worked on creating a baseline component library for the new
+store web page.  We had to integrate with already existing React
+codebase.
+
 
 <!--
 
