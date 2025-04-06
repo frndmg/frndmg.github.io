@@ -7,9 +7,10 @@ title: Fernando Martínez González
 > Software Engineer
 
 <div id="webaddress">
-<a href="mailto:frndmartinezglez+work@gmail.com">frndmartinezglez@gmail.com</a>
+<a href="mailto:me@frndmg.xyz">me@frndmg.xyz</a>
 | <a href="https://github.com/frndmg">github.com/frndmg</a>
 | <a href="https://www.linkedin.com/in/frndmg">linkedin.com/in/frndmg</a>
+| <a href="https://notes.frndmg.xyz">notes.frndmg.xyz</a>
 </div>
 
 ## A Word
