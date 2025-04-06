@@ -30,21 +30,21 @@ with. Cheers!
 
 ## Experience
 
-`Feb 2024–May 2025`
+`Feb 2024–Present`
 __Dive Solutions GmbH__ [Berlin, Germany]
 
 - _Senior Backend Engineer_
 
-- Worked on design, implementation, testing and deployment of several system.
+Worked on design, implementation, testing and deployment of several system.
 One of them included the management of up to hundreds of millions of blobs,
 its indexing and lifetime. Using azure queues and postgres jsonb we managed
 to process millions of events per day related to the state of the storage,
 and its aggregation and later presentation as a comprehensive end user tool.
 
-- Helped on unlocking the power of queue processing to scale up to hundreds
+Helped on unlocking the power of queue processing to scale up to hundreds
 of user projects that required extensive runtime execution on our backend.
 
-- Maintained and developed parts of our backend on kubernetes, argocd, azure
+Maintained and developed parts of our backend on kubernetes, argocd, azure
 cloud and terraform.
 
 <!--
