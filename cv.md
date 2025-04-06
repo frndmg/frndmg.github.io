@@ -30,10 +30,27 @@ with. Cheers!
 
 ## Experience
 
+`Feb 2024–May 2025`
+__Dive Solutions GmbH__ [Berlin, Germany]
+
+- _Senior Backend Engineer_
+
+- Worked on design, implementation, testing and deployment of several system.
+One of them included the management of up to hundreds of millions of blobs,
+its indexing and lifetime. Using azure queues and postgres jsonb we managed
+to process millions of events per day related to the state of the storage,
+and its aggregation and later presentation as a comprehensive end user tool.
+
+- Helped on unlocking the power of queue processing to scale up to hundreds
+of user projects that required extensive runtime execution on our backend.
+
+- Maintained and developed parts of our backend on kubernetes, argocd, azure
+cloud and terraform.
+
 <!--
 
 -->
-`Jul 2022–Present`
+`Jul 2022–Dec 2023`
 __Explosion GmbH__ [Berlin, Germany]
 
 - _Full Stack Engineer_
@@ -54,10 +71,10 @@ __Signatrix GmbH__ [Berlin, Germany]
 
 - _Software Engineer_
 
-Worked on a on edge deployed software for super markets to classify
+Worked on an on-edge deployed software for super markets to classify
 users intentions. Most of the backend and main apps were implemented
 in Python. I took care of a complete re-write of the main frontend app
-used in the terminals that used the data supplied by the classifier.
+used in the terminals.
 
 Also worked on the internal infrastructure needed to run our machine
 learning pipelines. One of the applications was implemented in Rails
@@ -75,8 +92,8 @@ __SwagUp, Inc__ [Havana, Cuba]
 - _Software Engineer_
 
 I worked on the integrations with Shopify and Zapier. Those were
-relavant while the store was being developed to provide a ready-to-use
-venue for selling the company's products. We used extensibely the AWS
+relevant while the store was being developed to provide a ready-to-use
+venue for selling the company's products. We used extensively the AWS
 services to develop and deploy these integrations.
 
 I also worked on creating a baseline component library for the new
@@ -111,6 +128,8 @@ __University of Havana, Cuba__
 `Programming Languages`
 __Python__, __Golang__, __JavaScript__,
 
+__Haskell__, __Scheme/Guile__,
+
 __TypeScript__, __C__, __C++__, __C#__
 
 `Technologies and Tools`
@@ -118,10 +137,12 @@ __Git__, __Linux__, __Bash__,
 
 __Functional Programming__,
 
-__FastAPI__, __Django__, __React__, __Docker__
+__FastAPI__, __Django__, __React__, __Docker__,
+
+__Kubernetes__, __PostgresQL__
 
 `Like to use`
-__Haskell__, __Clojure__, __Common Lisp__, __OCaml__, __Rust__
+__Haskell__, __Scheme/Guile__, __Rust__, __Zig__
 
 `Languages`
 __Spanish__ (Native), __English__ (Full professional proficiency), __German__ (Still learning)
