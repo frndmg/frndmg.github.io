@@ -12,11 +12,13 @@ title: Fernando Martínez González
 | <a href="https://www.linkedin.com/in/frndmg">linkedin.com/in/frndmg</a>
 </div>
 
-## A Word
+
+## Summary
 
 I am a passionate software engineer with extensive experience developing systems across diverse environments. My technical expertise spans Python, JavaScript, TypeScript, Go, C++, C, C#, relational and non-relational databases, Docker, AWS, GCloud, Terraform and other HashiCorp products, Git and CI/CD workflows, plus frontend and backend development. I also enjoy functional programming with languages like Haskell and Clojure, though most of my professional experience has been with imperative paradigms. Throughout my career, I have learned that technical excellence goes hand-in-hand with strong teamwork and collaborative environments where both productivity and job satisfaction thrive. I am drawn to challenging problems and innovative solutions.
 
 ## Experience
+
 
 `Feb 2024–Jun 2024`
 __Explosion GmbH__ [Berlin, Germany]
@@ -29,6 +31,7 @@ Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com
 - Reduced storage consumption by 10% through identification and removal of unlinked and deprecated data, resulting in substantial cost savings
 - Developed and maintained backend systems and DevOps infrastructure using Python, PostgreSQL, Terraform, Azure, and Temporal for persistent task management
 
+
 `Jul 2022–Dec 2023`
 __Explosion GmbH__ [Berlin, Germany]
 
@@ -40,6 +43,7 @@ Worked on a SaaS tool for language processing pipelines, [Prodigy](https://prodi
 - Developed client-side frontend applications using Vue.js
 - Built backend services with FastAPI and PostgreSQL
 - Managed cloud deployments on AWS and Google Cloud using Terraform, Nomad, and other HashiCorp tools
+
 
 `Apr 2020–Jul 2022`
 __Signatrix GmbH__ [Berlin, Germany]
@@ -64,9 +68,7 @@ Distributed Systems and Computer Networking Professor.
 
 I had to prepare and evaluate multiple projects and courses. In the realm of distributed systems things like Distributed Hash Tables and Consensus Algorithms were very common and fun to work with. Many of the projects imitated ideas like BitTorrent and MapReduce.
 
-<!--
 
--->
 ## Education
 
 `2013–2018`
@@ -74,10 +76,11 @@ __University of Havana, Cuba__
 
 - _Bachelor, Computer Science_
 
+
 ## Skills
 
 `Programming Languages`
-__Python__, __JavaScript__, __TypeScript__, __Go__, __C__, __C++__, __C#__, __Haskell__, __Clojure__
+__Python__, __JavaScript__, __TypeScript__, __Go__, __C__, __C++__, __C#__, __Haskell__, __Guile__
 
 `Frameworks & Technologies`
 __FastAPI__, __Vue.js__, __React__, __Django__, __Rails__, __Node.js__
