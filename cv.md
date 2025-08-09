@@ -27,9 +27,9 @@ __dive solutions GmbH__ [Berlin, Germany]
 
 Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com).
 
-- Architected and implemented storage optimization solutions for several terabytes of data and millions of blobs, enabling near real-time queries for both client-side and internal systems
-- Reduced storage consumption by 10% through identification and removal of unlinked and deprecated data, resulting in substantial cost savings
-- Developed and maintained backend systems and DevOps infrastructure using Python, PostgreSQL, Terraform, Azure, and Temporal for persistent task management
+* Architected and implemented storage optimization solutions for several terabytes of data and millions of blobs, enabling near real-time queries for both client-side and internal systems
+* Reduced storage consumption by 10% through identification and removal of unlinked and deprecated data, resulting in substantial cost savings
+* Developed and maintained backend systems and DevOps infrastructure using Python, PostgreSQL, Terraform, Azure, and Temporal for persistent task management
 
 
 `Jul 2022–Dec 2023`
