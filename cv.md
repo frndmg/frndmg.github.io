@@ -20,7 +20,7 @@ I am a passionate software engineer with extensive experience developing systems
 ## Experience
 
 
-`Feb 2024–Jun 2025`
+`Feb 2024–May 2025`
 __dive solutions GmbH__ [Berlin, Germany]
 
 _Senior Backend Engineer_
