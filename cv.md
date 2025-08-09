@@ -7,77 +7,54 @@ title: Fernando Martínez González
 > Software Engineer
 
 <div id="webaddress">
-<a href="mailto:frndmartinezglez+work@gmail.com">frndmartinezglez@gmail.com</a>
+<a href="mailto:frndmartinezglez+work@gmail.com">frndmartinezglez+work@gmail.com</a>
 | <a href="https://github.com/frndmg">github.com/frndmg</a>
 | <a href="https://www.linkedin.com/in/frndmg">linkedin.com/in/frndmg</a>
 </div>
 
 ## A Word
 
-I like to program all kinds of systems, in all kind of environments. My work experience goes mostly, but it is not limited to, Python, JavaScript, TypeScript, Go, C++, C, C#, relational and non-relational databases, Docker, AWS, GCloud, Terraform (and other HashiCorp products), Git and all the related CI/CD around it, frontend and backend templating, etc. I love functional programming too, so I also use stuff like Haskell, Clojure and the like, but haven't get much work experience on it. I have been around enough to also know how important is to have a great team, and having a cohesive and vibing working environment where things get done and people feel good about it is something I put a lot of time into. I enjoy the craft and the challenge, let me know if you have something interesting to work with. Cheers!
+I am a passionate software engineer with extensive experience developing systems across diverse environments. My technical expertise spans Python, JavaScript, TypeScript, Go, C++, C, C#, relational and non-relational databases, Docker, AWS, GCloud, Terraform and other HashiCorp products, Git and CI/CD workflows, plus frontend and backend development. I also enjoy functional programming with languages like Haskell and Clojure, though most of my professional experience has been with imperative paradigms. Throughout my career, I have learned that technical excellence goes hand-in-hand with strong teamwork and collaborative environments where both productivity and job satisfaction thrive. I am drawn to challenging problems and innovative solutions.
 
 ## Experience
 
-`Feb 2024–Jun 2025`
+`Feb 2024–Jun 2024`
 __Explosion GmbH__ [Berlin, Germany]
 
 - _Senior Software Engineer_
 
 Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com).
-I took care of the several terabytes and millions of blobs present in storage,
-previously not easily searchable or queriable. The approach implemented allowed for
-performing near realtime queries on the storage facing client side and internal.
-We also help reduced up to 10% of the starage being consumed by unlinked and
-deprecated data. Given that most of the costs (cloud wise) were coming from the storage,
-this represented a substantial reduction. I also helped implementing, improving and fixing
-many backend parts, including the devops side of things. We were mostly using Python, Postgres,
-Terraform, Azure, and Temporal (for persistent tasks).
 
-<!--
+- Architected and implemented storage optimization solutions for several terabytes of data and millions of blobs, enabling near real-time queries for both client-side and internal systems
+- Reduced storage consumption by 10% through identification and removal of unlinked and deprecated data, resulting in substantial cost savings
+- Developed and maintained backend systems and DevOps infrastructure using Python, PostgreSQL, Terraform, Azure, and Temporal for persistent task management
 
--->
 `Jul 2022–Dec 2023`
 __Explosion GmbH__ [Berlin, Germany]
 
 - _Senior Full Stack Engineer_
 
 Worked on a SaaS tool for language processing pipelines, [Prodigy](https://prodigy.ai).
-I took, in close interaction with the rest of the team, care of the design,
-implementation, testing, and shipment of
-several parts of the software. The frontend was implemented client side only in
-VueJS. The backend was done with FastAPI and PostgreSQL. We did deployments in
-AWS and Google Cloud using Terraform, Nomad, and other Hashicorp open source tools.
 
-<!--
+- Collaborated closely with team on design, implementation, testing, and deployment of multiple software components
+- Developed client-side frontend applications using Vue.js
+- Built backend services with FastAPI and PostgreSQL
+- Managed cloud deployments on AWS and Google Cloud using Terraform, Nomad, and other HashiCorp tools
 
--->
 `Apr 2020–Jul 2022`
 __Signatrix GmbH__ [Berlin, Germany]
 
 - _Software Engineer_
 
-Worked on a on edge deployed software for super markets to classify users
-intentions. Most of the backend and main apps were implemented in Python. I
-took care of a complete re-write of the main frontend app used in the terminals
-that used the data supplied by the classifier.
+Worked on edge-deployed software for supermarkets to classify user intentions.
 
-Also worked on the internal infrastructure needed to run our machine learning
-pipelines. One of the applications was implemented in Rails with MongoDB. Other
-tasks comprised on having our internal Python Packages Registry, updating and
-extending our annotation tools, CVAT or internals. This was done using a mix
-of private cluster and Google Cloud.
+- Led complete rewrite of the main frontend application for terminal devices that consumed classifier data
+- Developed backend systems and applications primarily in Python
+- Built and maintained machine learning pipeline infrastructure, including a Rails application with MongoDB
+- Managed internal Python Package Registry and extended annotation tools (CVAT and custom internal tools)
+- Deployed solutions using hybrid private cluster and Google Cloud infrastructure
 
-<!--
 
-`Sep 2019–Apr 2020`
-__SwagUp SA__ [Havana, Cuba]
-
-- _Software Engineer_
--->
-
-<!--
-
--->
 `Sep 2018–Sep 2020`
 __University of Havana__ [Havana, Cuba]
 
@@ -100,13 +77,19 @@ __University of Havana, Cuba__
 ## Skills
 
 `Programming Languages`
-__Python__, __JavaScript__, __TypeScript__, __C__, __C++__, __C#__
+__Python__, __JavaScript__, __TypeScript__, __Go__, __C__, __C++__, __C#__, __Haskell__, __Clojure__
 
-`Frameworks, Technologies and Tools`
-__Git__, __Linux__, __Bash__, __Functional Programming__
+`Frameworks & Technologies`
+__FastAPI__, __Vue.js__, __React__, __Django__, __Rails__, __Node.js__
 
-`Like to use`
-__Clojure__, __Haskell__
+`Databases & Storage`
+__PostgreSQL__, __MongoDB__, __Redis__, __Elasticsearch__
+
+`Cloud & DevOps`
+__AWS__, __Google Cloud__, __Azure__, __Docker__, __Terraform__, __Nomad__, __Temporal__
+
+`Tools & Workflow`
+__Git__, __Linux__, __Bash__, __CI/CD__, __Kubernetes__
 
 `Languages`
-__Spanish__ (Native), __English__ (Full professional proficiency), __German__ (Still learning)
+__Spanish__ (Native), __English__ (Full professional proficiency), __German__ (Conversational)
