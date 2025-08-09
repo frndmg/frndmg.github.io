@@ -36,17 +36,17 @@ Terraform, Azure, and Temporal (for persistent tasks).
 <!--
 
 -->
-`Jul 2022–Present`
+`Jul 2022–Dec 2023`
 __Explosion GmbH__ [Berlin, Germany]
 
-- _Full Stack Engineer_
+- _Senior Full Stack Engineer_
 
-Worked on a management SaaS tool for managing annotations and training tasks,
-based on [Prodigy](https://prodigy.ai). I took, in close interaction with the
-rest of the team, care of the design, implementation, testing, and shipment of
+Worked on a SaaS tool for language processing pipelines, [Prodigy](https://prodigy.ai).
+I took, in close interaction with the rest of the team, care of the design,
+implementation, testing, and shipment of
 several parts of the software. The frontend was implemented client side only in
-VueJS. The backend was done in FastAPI with PostgreSQL. We did deployments in
-AWS and GCloud using Terraform, Nomad, and other Hashicorp open source tools.
+VueJS. The backend was done with FastAPI and PostgreSQL. We did deployments in
+AWS and Google Cloud using Terraform, Nomad, and other Hashicorp open source tools.
 
 <!--
 
