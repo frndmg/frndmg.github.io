@@ -18,6 +18,21 @@ I like to program all kinds of systems, in all kind of environments. My work exp
 
 ## Experience
 
+`Feb 2024–Jun 2025`
+__Explosion GmbH__ [Berlin, Germany]
+
+- _Senior Software Engineer_
+
+Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com).
+I took care of the several terabytes and millions of blobs present in storage,
+previously not easily searchable or queriable. The approach implemented allowed for
+performing near realtime queries on the storage facing client side and internal.
+We also help reduced up to 10% of the starage being consumed by unlinked and
+deprecated data. Given that most of the costs (cloud wise) were coming from the storage,
+this represented a substantial reduction. I also helped implementing, improving and fixing
+many backend parts, including the devops side of things. We were mostly using Python, Postgres,
+Terraform, Azure, and Temporal (for persistent tasks).
+
 <!--
 
 -->
