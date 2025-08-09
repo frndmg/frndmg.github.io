@@ -23,7 +23,7 @@ I am a passionate software engineer with extensive experience developing systems
 `Feb 2024–Jun 2025`
 __dive solutions GmbH__ [Berlin, Germany]
 
-- _Senior Backend Engineer_
+_Senior Backend Engineer_
 
 Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com).
 
@@ -35,7 +35,7 @@ Worked on SaaS tool for mechanical engineers, [Dive CAE](https://www.divecae.com
 `Jul 2022–Dec 2023`
 __Explosion GmbH__ [Berlin, Germany]
 
-- _Senior Full Stack Engineer_
+_Senior Full Stack Engineer_
 
 Worked on a SaaS tool for language processing pipelines, [Prodigy](https://prodigy.ai).
 
@@ -48,7 +48,7 @@ Worked on a SaaS tool for language processing pipelines, [Prodigy](https://prodi
 `Apr 2020–Jul 2022`
 __Signatrix GmbH__ [Berlin, Germany]
 
-- _Software Engineer_
+_Software Engineer_
 
 Worked on edge-deployed software for supermarkets to classify user intentions.
 
@@ -62,7 +62,7 @@ Worked on edge-deployed software for supermarkets to classify user intentions.
 `Sep 2018–Sep 2020`
 __University of Havana__ [Havana, Cuba]
 
-- _Professor_
+_Professor_
 
 Distributed Systems and Computer Networking Professor.
 
@@ -74,7 +74,7 @@ I had to prepare and evaluate multiple projects and courses. In the realm of dis
 `2013–2018`
 __University of Havana, Cuba__
 
-- _Bachelor, Computer Science_
+_Bachelor, Computer Science_
 
 
 ## Skills
