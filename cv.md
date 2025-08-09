@@ -21,7 +21,7 @@ I am a passionate software engineer with extensive experience developing systems
 
 
 `Feb 2024–Jun 2025`
-__Explosion GmbH__ [Berlin, Germany]
+__dive solutions GmbH__ [Berlin, Germany]
 
 - _Senior Software Engineer_
 
